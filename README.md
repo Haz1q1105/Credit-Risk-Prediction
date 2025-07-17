@@ -5,8 +5,10 @@ Performing Logisitcal Regression on determining whether a loan applicant is like
 Predict whether a loan applicant is likely to default on a loan.
 
 # Dataset Used:
-Name: Loan Prediction Dataset
-Source: Kaggle 
+**Name:** Loan Prediction Dataset
+**Source:** Kaggle 
+# File Name: 
+Credit-Risk-Prediction.ipynb
 
 # Tools used:
 Python
